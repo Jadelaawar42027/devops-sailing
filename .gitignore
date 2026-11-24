@@ -9,7 +9,6 @@ venv/
 coverage.xml
 htmlcov/
 *.egg-info/
-team.sh
 
 # Local databases and env files (never commit secrets)
 *.db
